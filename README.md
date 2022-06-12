@@ -1,2 +1,2 @@
 # CP-TEMPLATES
-contains c++ and java cp templates 
+contains c++ and java compitative programming templates 
